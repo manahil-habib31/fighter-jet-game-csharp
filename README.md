@@ -99,7 +99,7 @@ Final Fighter Jet Shooter Game
 ### Main Interface
 
 <p align="center">
-<img src="screenshots/game_interface.png" width="700">
+<img src="screenshots/game_interface.jpeg" width="700">
 </p>
 
 ---
@@ -107,20 +107,20 @@ Final Fighter Jet Shooter Game
 ### Gameplay
 
 <p align="center">
-<img src="screenshots/game_play.png" width="700">
+<img src="screenshots/game_play.jpeg" width="700">
 </p>
 
 ---
-### Score Increasw
+### Score Increase
 
 <p align="center">
-<img src="screenshots/score_increase.png" width="700">
+<img src="screenshots/score_increase.jpeg" width="700">
 </p>
 
 ### Game Over
 
 <p align="center">
-<img src="screenshots/game_over.png" width="700">
+<img src="screenshots/game_over.jpeg" width="700">
 </p>
 
 ---
